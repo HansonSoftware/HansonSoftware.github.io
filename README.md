@@ -1,2 +1,2 @@
-# HansonSoftware.github.io
+# Web Terminal
 https://hansonsoftware.github.io/
